@@ -6,6 +6,7 @@ For example, click the download button under the window icon if your operating s
 Step 4: Run the Installer after it finished downloading.
 Step 5: You have finished downloading VScode! 
 (refer to the image below to check what VScode looks like after it get launched the first time.)
+
 ![Image](VScodeOpen.png)
 
 **Remotely Connecting**
@@ -26,6 +27,7 @@ Step 14: Type yes
 Step 15: The terminal will prompt you to enter the password, enter the password that you just made
 Step 16: Note that password will not be visible when you type it
 Step 17: Once you have enter the password, the terminal will display the status of the server. (Refer to the image below to check what the terminal will display after the password is entered.)
+
 ![Image](ServerStatus.png)
 
 **Trying Some Commands**
@@ -36,4 +38,5 @@ cd ls -lat
 ls -a
 pwd
 (Refer to the image below to check what would the output would be after some of the code above are type.)
+
 ![Image](Trycommand.png)
