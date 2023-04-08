@@ -6,7 +6,7 @@ For example, click the download button under the window icon if your operating s
 Step 4: Run the Installer after it finished downloading.
 Step 5: You have finished downloading VScode! 
 (refer to the image below to check what VScode looks like after it get launched the first time.)
-![Image](VScode Open.png)
+![Image](VScodeOpen.png)
 
 **Remotely Connecting**
 Step 1: Download Git from (https://gitforwindows.org/)
