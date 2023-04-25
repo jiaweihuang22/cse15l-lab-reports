@@ -32,12 +32,15 @@
 # **Trying Some Commands**
 1. Step 1: Open VS code and make sure the terminal is a Git Bash terminal
 2. Step 2: Try the following commands
-• cd ~
-change 
-• cd ls -lat
-• ls -a
-• pwd
-  * PWD Display Your
+ • pwd
+  * This command should display the full path name of your current directory
+ • cd ~
+  * This command should change the current directory to the the previous directory
+ • ls -lat
+  * This command should list all the file in the lat directory
+ • ls -a
+  * This command should list all the file in the a directory
+
 3. (Refer to the image below to check what would the output would be after some of the code above are type.)
 
 ![Image](Trycommand.png)
