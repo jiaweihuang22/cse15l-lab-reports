@@ -1,4 +1,4 @@
-**Install VScode**
+# **Install VScode**
 1. Step 1: Google VScode Download
 2. Step 2: Click on the link that said Downlad Visual Studio Code - Mac, Linus, Windows
 3. Step 3: Depending on which operating system you are on, click download on one you are on. For example, click the download button under the window icon if your operating system is window.
@@ -8,8 +8,8 @@
 
 ![Image](VScodeOpen.png)
 
-**Remotely Connecting**
-1. Step 1: Download Git from (https://gitforwindows.org/)
+# **Remotely Connecting**
+1. Step 1: Download Git from [Link](https://gitforwindows.org/)
 2. Step 2: Run the Installer after it finish downloading.
 3. Step 3: Go to VScode and open the terminal.
 4. Step 4: Open the command palette using Ctrl + Shift + P
@@ -29,13 +29,15 @@
 
 ![Image](ServerStatus.png)
 
-**Trying Some Commands**
-Step 1: Open VS code and make sure the terminal is a Git Bash terminal
-Step 2: Try the following commands
-cd ~
-cd ls -lat
-ls -a
-pwd
-(Refer to the image below to check what would the output would be after some of the code above are type.)
+# **Trying Some Commands**
+1. Step 1: Open VS code and make sure the terminal is a Git Bash terminal
+2. Step 2: Try the following commands
+• cd ~
+change 
+• cd ls -lat
+• ls -a
+• pwd
+  * PWD Display Your
+3. (Refer to the image below to check what would the output would be after some of the code above are type.)
 
 ![Image](Trycommand.png)
