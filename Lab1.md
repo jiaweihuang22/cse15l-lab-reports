@@ -20,7 +20,7 @@
 9. Step 9: Look up your CSE 15L account from https://sdacs.ucsd.edu/~icc/index.php
 10. Step 10: Find your account by typing your Last Name and Student ID and then click Submit
 11. Step 11: Click on the Account Name that start with cs15l and reset the password
-12. Step 12: Go back to VS code and type "ssh cs15lsp23zz@ieng6.ucsd.edu" in the Git Bash terminal
+12. Step 12: Go back to VS code and type "`ssh` cs15lsp23zz@ieng6.ucsd.edu" in the Git Bash terminal
 13. Step 13: The terminal will print out a message and ask "Are you sure you want to continue coneecting(yes/no)
 14. Step 14: Type yes
 15. Step 15: The terminal will prompt you to enter the password, enter the password that you just made
@@ -33,13 +33,13 @@
 1. Step 1: Open VS code and make sure the terminal is a Git Bash terminal
 2. Step 2: Try the following commands
  * pwd
-  * This command should display the full path name of your current directory
+  - This command should display the full path name of your current directory
  * cd ~
-  * This command should change the current directory to the the previous directory
+  - This command should change the current directory to the the previous directory
  * ls -lat
-  * This command should list all the file in the lat directory
+  - This command should list all the file in the lat directory
  * ls -a
-  * This command should list all the file in the a directory
+  - This command should list all the file in the a directory
 
 3. (Refer to the image below to check what would the output would be after some of the code above are type.)
 
