@@ -29,5 +29,4 @@ ScreenShots After using Add-Message
 2. Therefore, To fix this, I change the code according to the need of this lab by for example, remove command increment and count and add in arraylist variable so that I can save multiple String inside.
 
 # **Part 3**
-1. Throughout the lab in week 2 and week 3, it taught me how to write code in java that can start a webpage server. 
-2. Additionally, I can also write method that I can use to do some interesting action within the webpage server such as printing out message that is written within the URL
+Throughout the lab in week 2 and week 3, it taught me how to write code in java that can start a webpage server. Additionally, I can also write method that I can use to do some interesting action within the webpage server such as printing out message that is written within the URL
