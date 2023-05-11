@@ -1,5 +1,5 @@
 # **Part 1**
-1. My String Server Code:
+My String Server Code:
 
 ![Image](ServerCode.png)
 
@@ -11,7 +11,11 @@ ScreenShots After using Add-Message
 2. The relevant argument to this method is the string(the string is "Hello" in this case) follow by add-message
 3. The value changes as I type multiple string using add-message
 4. The string will then save in the arraylist varaible called "words" and then input it into the String varaible called "Val"
+
+ScreenShots After using Add-Message 
+
 ![Image](AddMessage2.png)
+
 1. The Method "Handle Request" is being Called
 2. The relevant argument to this method is the string(the string is "World" in this case) follow by add-message
 3. The value changes as I type multiple string using add-message
