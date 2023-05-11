@@ -6,16 +6,16 @@ The Command I choose: 'grep'
 
 1. First Command Option: -v
 
-![Image](Grep -v.png)
+![Image](Grep-v.png)
 
 1. Second Command Option: -i
 
-![Image](Grep -i.png)
+![Image](Grep-i.png)
 
 1. Third Command Option: -n
 
-![Image](Grep -n.png)
+![Image](Grep-n.png)
 
 1. Fourth Command Option: -s
 
-![Image](Grep -s.png)
+![Image](Grep-s.png)
