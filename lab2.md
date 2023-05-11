@@ -1,5 +1,5 @@
 # **Part 1**
-My String Server Code:
+1. My String Server Code:
 ![Image](ServerCode.png)
 
 ScreenShots After using Add-Message 
