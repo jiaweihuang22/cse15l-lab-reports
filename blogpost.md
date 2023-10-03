@@ -1,14 +1,26 @@
 cd
 =========
 
-![Image](Screenshot (4).png)
+**1:** ![Image](Screenshot (4).png)
+
+**2:** ![Image](Screenshot (4).png)
+
+**3:** ![Image](Screenshot (4).png)
 
 ls
 =========
 
-![Image](Screenshot (3).png)
+**1:** ![Image](Screenshot (3).png)
+
+**2:** ![Image](Screenshot (3).png)
+
+**3:** ![Image](Screenshot (3).png)
 
 cat
 =========
 
-![Image](Screenshot (5).png)
+**1:** ![Image](Screenshot (5).png)
+
+**2:** ![Image](Screenshot (5).png)
+
+**3:** ![Image](Screenshot (5).png)
