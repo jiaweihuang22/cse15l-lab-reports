@@ -6,21 +6,21 @@ cd
 * Working directory: Home directory
 
 
-* Output: I get no output because there's no argument therefore I am not changing my working directory to anything.
+* Output: I get no output because since there's no argument I am not changing my working directory to anything.
 
 **2:** ![Image](Screenshot (4).png)
 
 * Working directory: Home directory
 
 
-* Output: I didn't get any output because all I did was change my working directory to lecture1
+* Output: The output is changing my working directory to lecture1 because I put lecture1 as the argument.
 
 **3:** ![Image](Screenshot (4).png)
 
 * Working directory: Lecture1 directory
 
 
-* Output: I get an error because my argument is a file instead of a directory 
+* Output: I get an error and a message saying argument not a directory because I cannot change the directory to a file.
 
 ls
 =========
@@ -30,14 +30,14 @@ ls
 * Working directory: Home directory
 
 
-* Output: I get lecture1 as my output because when I ls with no argument, it will list all the files in my working directory and since my working directory is the home directory it lists lecture1 as my output.
+* Output: I get lecture1 as my output because when I ls with no argument, it will list all the files in my working directory, and since my working directory is the home directory it lists lecture1 as my output.
 
 **2:** ![Image](Screenshot (3).png)
 
 * Working directory: Home directory
 
 
-* Output: I get a list of files within lecture1 because when I ls with the lecture1 directory, it will list all the files within the lecture1 directory.
+* Output: I get a list of files within lecture1 as output because when I ls with the lecture1 directory, it will list all the files within the lecture1 directory.
 
 **3:** ![Image](Screenshot (3).png)
 
