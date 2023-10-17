@@ -8,6 +8,9 @@ cd
 
 * Output: I get no output because since there's no argument I am not changing my working directory to anything.
 
+
+* Addressing Feedback: If I am in another directory that is not the home directory, typing cd without argument will move my directory back one directory 
+
 **2:** ![Image](Screenshot (4).png)
 
 * Working directory: Home directory
@@ -55,6 +58,9 @@ cat
 
 
 * Output: I get an error because there's no argument following cat therefore, it does not know where to read data.
+
+
+* Addressing Feedback: If I type something and hit enter after running cat with no argument, the terminal will print out whatever I type and move on to the next line.
 
 **2:** ![Image](Screenshot (5).png)
 
