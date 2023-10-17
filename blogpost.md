@@ -2,6 +2,7 @@ cd
 =========
 
 **1:** ![Image](Screenshot (4).png)
+![Image](Screenshot 2023-10-17 113850.png)
 
 * Working directory: Home directory
 
@@ -53,7 +54,7 @@ cat
 =========
 
 **1:** ![Image](Screenshot (5).png)
-
+![Image](Screenshot 2023-10-17 113929.png)
 * Working directory: lecture1 directory
 
 
